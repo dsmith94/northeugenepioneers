@@ -17,6 +17,18 @@
 	pre { font-size: 14pt; }
 }
 
+.responsiveCal {
+ 
+position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+ 
+}
+ 
+.responsiveCal iframe {
+ 
+position: absolute; top:0; left: 0; width: 100%; height: 100%;
+ 
+}
+
 h2 { color: #666666; font-family: 'Libre Baskerville', serif; font-weight: normal; }
 h3 { font-family: Georgia, serif; font-weight: normal; }
 p { color: #000000; font-family: Georgia, serif; }
