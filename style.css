@@ -1,15 +1,9 @@
- 
-@media screen and (max-height: 800px) {
-  body {
-     background-color: lightblue;
-  }
+
+.responsiveCal iframe { 
+    position: absolute; top:5%; left: 0; width: 100%; height: 100%;
 }
 
-.responsiveCal iframe {
- 
-position: absolute; top:5%; left: 0; width: 100%; height: 100%;
- 
-}
+body {  background-color: lightblue;  }
 
 h3 { font-family: Georgia, serif; font-weight: normal; }
 p { color: #000000; font-family: Georgia, serif; }
